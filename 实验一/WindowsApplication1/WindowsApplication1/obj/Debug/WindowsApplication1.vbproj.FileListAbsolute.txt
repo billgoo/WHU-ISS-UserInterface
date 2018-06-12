@@ -1,0 +1,11 @@
+D:\VSproject\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\VSproject\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\VSproject\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\VSproject\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\VSproject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\VSproject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\VSproject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\VSproject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\VSproject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\VSproject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\VSproject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
