@@ -1,0 +1,26 @@
+H:\Enemies Library\Enemies Library\bin\Debug\Enemies Library.dll
+H:\Enemies Library\Enemies Library\bin\Debug\Enemies Library.pdb
+H:\Enemies Library\Enemies Library\bin\Debug\Enemies Library.xml
+H:\Enemies Library\Enemies Library\obj\Debug\Enemies_Library.Resources.resources
+H:\Enemies Library\Enemies Library\obj\Debug\Enemy.vbproj.GenerateResource.Cache
+H:\Enemies Library\Enemies Library\obj\Debug\Enemies Library.dll
+H:\Enemies Library\Enemies Library\obj\Debug\Enemies Library.xml
+H:\Enemies Library\Enemies Library\obj\Debug\Enemies Library.pdb
+D:\VSproject\vb\Enemies Library\Enemies Library\bin\Debug\Enemies Library.dll
+D:\VSproject\vb\Enemies Library\Enemies Library\bin\Debug\Enemies Library.pdb
+D:\VSproject\vb\Enemies Library\Enemies Library\bin\Debug\Enemies Library.xml
+D:\VSproject\vb\Enemies Library\Enemies Library\obj\Debug\Enemy.vbprojResolveAssemblyReference.cache
+D:\VSproject\vb\Enemies Library\Enemies Library\obj\Debug\Enemies_Library.Resources.resources
+D:\VSproject\vb\Enemies Library\Enemies Library\obj\Debug\Enemy.vbproj.GenerateResource.Cache
+D:\VSproject\vb\Enemies Library\Enemies Library\obj\Debug\Enemies Library.dll
+D:\VSproject\vb\Enemies Library\Enemies Library\obj\Debug\Enemies Library.xml
+D:\VSproject\vb\Enemies Library\Enemies Library\obj\Debug\Enemies Library.pdb
+D:\VSproject\Enemies Library\Enemies Library\bin\Debug\Enemies Library.dll
+D:\VSproject\Enemies Library\Enemies Library\bin\Debug\Enemies Library.pdb
+D:\VSproject\Enemies Library\Enemies Library\bin\Debug\Enemies Library.xml
+D:\VSproject\Enemies Library\Enemies Library\obj\Debug\Enemy.vbprojResolveAssemblyReference.cache
+D:\VSproject\Enemies Library\Enemies Library\obj\Debug\Enemies_Library.Resources.resources
+D:\VSproject\Enemies Library\Enemies Library\obj\Debug\Enemy.vbproj.GenerateResource.Cache
+D:\VSproject\Enemies Library\Enemies Library\obj\Debug\Enemies Library.dll
+D:\VSproject\Enemies Library\Enemies Library\obj\Debug\Enemies Library.xml
+D:\VSproject\Enemies Library\Enemies Library\obj\Debug\Enemies Library.pdb

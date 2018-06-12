@@ -1,0 +1,8 @@
+H:\Enemies Library\Enemies Library\bin\Debug\Enemies Library.dll
+H:\Enemies Library\Enemies Library\bin\Debug\Enemies Library.pdb
+H:\Enemies Library\Enemies Library\bin\Debug\Enemies Library.xml
+H:\Enemies Library\Enemies Library\obj\Debug\Enemies_Library.Resources.resources
+H:\Enemies Library\Enemies Library\obj\Debug\Enemies Library.vbproj.GenerateResource.Cache
+H:\Enemies Library\Enemies Library\obj\Debug\Enemies Library.dll
+H:\Enemies Library\Enemies Library\obj\Debug\Enemies Library.xml
+H:\Enemies Library\Enemies Library\obj\Debug\Enemies Library.pdb

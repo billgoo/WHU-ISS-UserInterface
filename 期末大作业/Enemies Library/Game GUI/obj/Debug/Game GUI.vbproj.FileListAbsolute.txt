@@ -1,0 +1,45 @@
+H:\Enemies Library\Game GUI\bin\Debug\Game GUI.exe.config
+H:\Enemies Library\Game GUI\bin\Debug\Game GUI.exe
+H:\Enemies Library\Game GUI\bin\Debug\Game GUI.pdb
+H:\Enemies Library\Game GUI\bin\Debug\Game GUI.xml
+H:\Enemies Library\Game GUI\obj\Debug\Game_GUI.Form1.resources
+H:\Enemies Library\Game GUI\obj\Debug\Game_GUI.Resources.resources
+H:\Enemies Library\Game GUI\obj\Debug\Game GUI.vbproj.GenerateResource.Cache
+H:\Enemies Library\Game GUI\obj\Debug\Game GUI.exe
+H:\Enemies Library\Game GUI\obj\Debug\Game GUI.xml
+H:\Enemies Library\Game GUI\obj\Debug\Game GUI.pdb
+H:\Enemies Library\Game GUI\bin\Debug\Enemies Library.dll
+H:\Enemies Library\Game GUI\bin\Debug\Enemies Library.pdb
+H:\Enemies Library\Game GUI\bin\Debug\Enemies Library.xml
+H:\Enemies Library\Game GUI\obj\Debug\Game GUI.vbprojResolveAssemblyReference.cache
+H:\Enemies Library\Game GUI\obj\Debug\Game_GUI.EventLog.resources
+D:\VSproject\vb\Enemies Library\Game GUI\bin\Debug\Game GUI.exe.config
+D:\VSproject\vb\Enemies Library\Game GUI\obj\Debug\Game GUI.exe
+D:\VSproject\vb\Enemies Library\Game GUI\obj\Debug\Game GUI.xml
+D:\VSproject\vb\Enemies Library\Game GUI\obj\Debug\Game GUI.pdb
+D:\VSproject\vb\Enemies Library\Game GUI\bin\Debug\Game GUI.exe
+D:\VSproject\vb\Enemies Library\Game GUI\bin\Debug\Game GUI.pdb
+D:\VSproject\vb\Enemies Library\Game GUI\bin\Debug\Game GUI.xml
+D:\VSproject\vb\Enemies Library\Game GUI\bin\Debug\Enemies Library.dll
+D:\VSproject\vb\Enemies Library\Game GUI\bin\Debug\Enemies Library.pdb
+D:\VSproject\vb\Enemies Library\Game GUI\bin\Debug\Enemies Library.xml
+D:\VSproject\vb\Enemies Library\Game GUI\obj\Debug\Game GUI.vbprojResolveAssemblyReference.cache
+D:\VSproject\vb\Enemies Library\Game GUI\obj\Debug\Game_GUI.EventLog.resources
+D:\VSproject\vb\Enemies Library\Game GUI\obj\Debug\Game_GUI.Form1.resources
+D:\VSproject\vb\Enemies Library\Game GUI\obj\Debug\Game_GUI.Resources.resources
+D:\VSproject\vb\Enemies Library\Game GUI\obj\Debug\Game GUI.vbproj.GenerateResource.Cache
+D:\VSproject\Enemies Library\Game GUI\bin\Debug\Game GUI.exe.config
+D:\VSproject\Enemies Library\Game GUI\obj\Debug\Game GUI.exe
+D:\VSproject\Enemies Library\Game GUI\obj\Debug\Game GUI.xml
+D:\VSproject\Enemies Library\Game GUI\obj\Debug\Game GUI.pdb
+D:\VSproject\Enemies Library\Game GUI\bin\Debug\Game GUI.exe
+D:\VSproject\Enemies Library\Game GUI\bin\Debug\Game GUI.pdb
+D:\VSproject\Enemies Library\Game GUI\bin\Debug\Game GUI.xml
+D:\VSproject\Enemies Library\Game GUI\bin\Debug\Enemies Library.dll
+D:\VSproject\Enemies Library\Game GUI\bin\Debug\Enemies Library.pdb
+D:\VSproject\Enemies Library\Game GUI\bin\Debug\Enemies Library.xml
+D:\VSproject\Enemies Library\Game GUI\obj\Debug\Game GUI.vbprojResolveAssemblyReference.cache
+D:\VSproject\Enemies Library\Game GUI\obj\Debug\Game_GUI.EventLog.resources
+D:\VSproject\Enemies Library\Game GUI\obj\Debug\Game_GUI.Form1.resources
+D:\VSproject\Enemies Library\Game GUI\obj\Debug\Game_GUI.Resources.resources
+D:\VSproject\Enemies Library\Game GUI\obj\Debug\Game GUI.vbproj.GenerateResource.Cache
