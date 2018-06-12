@@ -1,0 +1,13 @@
+D:\VSproject\Paint Youtube\Paint Youtube\bin\Debug\Paint Youtube.exe.config
+D:\VSproject\Paint Youtube\Paint Youtube\bin\Debug\Paint Youtube.exe
+D:\VSproject\Paint Youtube\Paint Youtube\bin\Debug\Paint Youtube.pdb
+D:\VSproject\Paint Youtube\Paint Youtube\bin\Debug\Paint Youtube.xml
+D:\VSproject\Paint Youtube\Paint Youtube\obj\Debug\Paint Youtube.vbprojResolveAssemblyReference.cache
+D:\VSproject\Paint Youtube\Paint Youtube\obj\Debug\Paint_Youtube.Resources.resources
+D:\VSproject\Paint Youtube\Paint Youtube\obj\Debug\Paint_Youtube.PaintCanvas.resources
+D:\VSproject\Paint Youtube\Paint Youtube\obj\Debug\Paint Youtube.vbproj.GenerateResource.Cache
+D:\VSproject\Paint Youtube\Paint Youtube\obj\Debug\Paint Youtube.exe
+D:\VSproject\Paint Youtube\Paint Youtube\obj\Debug\Paint Youtube.xml
+D:\VSproject\Paint Youtube\Paint Youtube\obj\Debug\Paint Youtube.pdb
+D:\VSproject\Paint Youtube\Paint Youtube\obj\Debug\Paint_Youtube.Form1.resources
+D:\VSproject\Paint Youtube\Paint Youtube\obj\Debug\Paint_Youtube.OptionForm.resources
